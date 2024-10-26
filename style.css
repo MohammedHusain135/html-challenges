@@ -54,7 +54,7 @@ li {
   font-size: 18px;
 }
 
-#Copyright {
+#copyright {
   font-size: 16px;
 }
 
@@ -123,3 +123,20 @@ a:active {
   font-style: italic;
 }
 /* LVHA (link, visited, hover,active)*/
+
+/* Resolving Conflicts */
+
+/* #copyright {
+  color: red;
+}
+.copyright {
+  color: blue;
+}
+
+.text {
+  color: yellow;
+}
+
+footer p {
+  color: green !important;
+} */
